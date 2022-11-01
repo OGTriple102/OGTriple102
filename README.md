@@ -1,0 +1,9 @@
+- 👋 Hi, I’m OGTriple
+- 👀 I’m interested in you ...
+- 🌱 I’m currently learning hacks...
+- 📫 How to reach me  OG Triple03...
+
+<!---
+OGTriple102/OGTriple102 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
